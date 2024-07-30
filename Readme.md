@@ -1,4 +1,4 @@
-# 50 Days Of Frontend Interview Questions
+# 50 Days Of 500 Frontend Interview Questions
 
 This will contain 500 frontend interview questions on HTML, CSS(Tailwind, sass, scss), Javascript & React for 50 days (10 Questions a day). Only theory questions no coding questions are added in this.
 
