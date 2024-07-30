@@ -269,9 +269,6 @@ TypeScript is of 466-500 day 47-50
 
 # CSS
 
-
-# CSS
-
 ## Day 6
 
 51. ### What is CSS?
@@ -1742,7 +1739,7 @@ TypeScript is of 466-500 day 47-50
 
 
 
-### React
+# REACT
 
 # Day 34
 
