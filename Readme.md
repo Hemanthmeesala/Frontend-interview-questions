@@ -4,7 +4,7 @@ This will contain 500 frontend interview questions on HTML, CSS(Tailwind, sass, 
 
 `Source of the questions: Google, ChatGPT, My Own Experience in interviews, Seniors, etc`
 
-HTML is of 1-50 questions for day 1-5
+HTML is of 1-50 questions for day 1-5<br/>
 CSS is of 51-150 questions for day 6-15
 JavaScript is of 151-330 for day 16-33
 React is of 331-465 for day 34-47
